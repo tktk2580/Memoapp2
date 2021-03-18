@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
     justifyContent: 'flex-end',
   },
   appbarInner: {
-    backgroundColor: 'gray',
+    backgroundColor: '#467fd3',
     alignItems: 'center',
   },
   appbarRight: {
